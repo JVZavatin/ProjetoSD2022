@@ -1,6 +1,9 @@
 # ProjetoSD2022
 Repositório para o projeto de desenvolvimento de aplicação distribuída, para a matéria de sistemas distribuídos, 2022/2.
 
+# Aviso:
+O projeto foi descontinuado...
+
 ## Tema:
 Um jogo da memória multijogador.   
    
